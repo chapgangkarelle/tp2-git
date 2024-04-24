@@ -9,7 +9,8 @@
   --ifm-color-primary: #312978;
    /* #2e8555; */
   --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darker: purple;
+   /* #277148; */
   --ifm-color-primary-darkest: #205d3b;
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
@@ -23,7 +24,7 @@
   --ifm-color-primary: #4439a1;
    /* #25c2a0; */
   --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darker: rgb(119, 42, 119);
   --ifm-color-primary-darkest: #1a8870;
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
